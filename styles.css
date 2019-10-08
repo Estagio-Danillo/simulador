@@ -20,6 +20,12 @@ body{
   
 }
 
+.btn-warning {
+    color: white;
+    background-color: #004a90;
+    border-color: #004a90;
+}
+
 #octocat {
   display: block;
   width:384px;
