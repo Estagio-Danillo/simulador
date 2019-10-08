@@ -16,7 +16,7 @@ body{
 .nav-item a:hover{
   background-color: #ffcb31;
   color: #004a90;
-  transition: background-color 0.5s linear 0.1s;
+  transition: background-color 0.15s linear 0.1s;
   
 }
 
