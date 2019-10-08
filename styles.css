@@ -13,6 +13,13 @@ body{
     color: #6d6e71 !important;
 }
 
+.nav-item a:hover{
+  background-color: #ffcb31;
+  color: #004a90;
+  transition: background-color 1s linear 0.1s;
+  
+}
+
 #octocat {
   display: block;
   width:384px;
