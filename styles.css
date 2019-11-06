@@ -19,7 +19,9 @@ body{
   transition: background-color 0.15s linear 0.1s;
   
 }
-
+.card{
+	border: 1px solid #0056b3;
+}
 .card-header{
   background-color: #ffcb31;
    color: #004a90;
